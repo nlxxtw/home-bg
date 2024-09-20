@@ -15,24 +15,19 @@
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=943828753"
+    "url": ""
   },
+  
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "chinavredu@163.com"
-  },
-  {
-    "name": "Twitter",
+    "name": "小程序",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/"
+    "tip": "懂你的资源 ~",
+    "url": "https://image.vredu.icu/img/gh_53873b9daeb7_258.jpg"
   },
   {
-    "name": "Telegram",
+    "name": "微信",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/"
+    "url": "https://image.vredu.icu/img/微信公众号.jpg"
   }
 ]
