@@ -4,20 +4,10 @@
     "name": "官网",
     "link": "https://www.zddown.icu/"
   },
-  {
-    "icon": "Cloud",
-    "name": "博客",
-    "link": "https://19492035.xyz/"
-  },
-  {
+   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://19492035.xyz/List/music/"
-  },
-  {
-    "icon": "Compass",
-    "name": "导航",
-    "link": "https://19492035.xyz/tools/nav/"
+    "name": "zd音乐网",
+    "link": "https://music.19492035.xyz"
   },
   {
     "icon": "Book",
@@ -38,5 +28,30 @@
     "icon": "Tv",
     "name": "观影中心",
     "link": "https://www.zddown.icu/tv"
+  },
+  {
+    "icon": "Cloud",
+    "name": "博客",
+    "link": "https://19492035.xyz/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热点",
+    "link": "https://hot.19492035.xyz"
+  },
+  {
+    "icon": "Compass",
+    "name": "导航",
+    "link": "https://19492035.xyz/tools/nav/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://site.19492035.xyz"
+  },
+   {
+    "icon": "Compass",
+    "name": "相册",
+    "link": "https://im.19492035.xyz/admin"
   }
 ]
