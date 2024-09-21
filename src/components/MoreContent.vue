@@ -1,9 +1,12 @@
 <template>
   
   <div class="more-content">  
-    相遇是一种缘分！</br> 
-    关注微信公众号：zdDown  
+    相遇是一种缘分！ </div>
+</br> 
+  <div class="more-content"> 
+    关注微信公众号：zdDown  </div> 
   </br> 
+  <div class="more-content"> 
     资源官网：www.zdDown.icu
 </div>
 </br>
