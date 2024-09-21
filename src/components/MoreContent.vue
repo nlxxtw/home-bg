@@ -3,7 +3,7 @@
   <div class="more-content">  
     相遇是一种缘分！ 关注微信公众号：zdDown 资源官网：www.zdDown.icu
 </div>
-
+</br>
 <div>
 <section id="main">
 <video id="player" src="http://api.yujn.cn/api/zzxjj.php?wpon=302" controls="controls" width="100%" height="400px"></video>
@@ -11,7 +11,7 @@
 </div>
 <div style="text-align: center;">
 <section id="buttons">
-<button id="switch"></button>
+<button id="switch">点击播放换一个 </button>
 <button id="next1">点击播放换一个</button>
 </section>
 </div>
