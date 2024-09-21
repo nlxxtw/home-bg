@@ -31,7 +31,7 @@
   },
   {
     "icon": "Cloud",
-    "name": "博客",
+    "name": "个人博客",
     "link": "https://19492035.xyz/"
   },
   {
@@ -42,7 +42,7 @@
   {
     "icon": "Compass",
     "name": "导航",
-    "link": "https://19492035.xyz/tools/nav/"
+    "link": "https://nav.19492035.xyz/"
   },
   {
     "icon": "LaptopCode",
