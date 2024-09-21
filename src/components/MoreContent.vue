@@ -14,8 +14,8 @@
 </div>
 <div style="text-align: center;">
 <section id="buttons">
-<button id="switch">点击播放换一个 </button>
-<button id="next1">点击播放换一个</button>
+<button id="switch">  </button>
+<button id="next1"> </button>
 </section>
 </div>
 <script>
