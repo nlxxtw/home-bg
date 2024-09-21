@@ -1,5 +1,7 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">相遇是一种缘分！微信公众号：zdDown  资源官网：www.zdDown.icu 
+    ![](https://image.vredu.icu/img/微信支付1.jpg)
+  </div>
 </template>
 
 <style lang="scss" scoped>
