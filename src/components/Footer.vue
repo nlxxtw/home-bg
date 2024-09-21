@@ -15,8 +15,8 @@
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
-          &amp;&nbsp;&nbsp;
-          <a :href="config.github" target="_blank">
+          <!-- &amp;&nbsp;&nbsp;
+          <a :href="config.github" target="_blank">   -->
            
           </a>
         </span>
