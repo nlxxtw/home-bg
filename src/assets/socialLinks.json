@@ -19,21 +19,21 @@
   },
   
   {
-    "name": "小程序",
-    "icon": "https://im.19492035.xyz/file/1726878857529_wxtu.png",
-    "tip": "懂你的资源 ~",
+    "name": "微信小程序",
+    "icon": "/images/icon/email.png",
+    "tip": "你想要得都在这 ~",
     "url": "https://image.vredu.icu/img/gh_53873b9daeb7_258.jpg"
   },
     {
     "name": "资源小程序",
-    "icon": "https://im.19492035.xyz/file/1726879116658_qiye.png",
+    "icon": "/images/icon/telegram.png",
     "tip": "懂你的资源 ~",
     "url": "https://im.19492035.xyz/file/1726826500883_小程序码.png"
   },
   
   {
     "name": "微信公众号",
-    "icon": "https://im.19492035.xyz/file/1726878907784_wxgz.png",
+    "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
     "url": "https://image.vredu.icu/img/微信公众号.jpg"
   }
