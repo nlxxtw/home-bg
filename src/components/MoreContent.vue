@@ -17,8 +17,8 @@
 </div>
 <div style="text-align: center;">
 <section id="buttons">
-<button id="switch">  </button>
-<button id="next1"> </button>
+<button id="switch"></button>
+<button id="next1"></button>
 </section>
 </div>
 <script>
