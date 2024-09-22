@@ -6,12 +6,13 @@
     关注微信公众号：zdDown   
 </div>   
 <br>   
-<img src="https://image.vredu.icu/img/wxgzh.jpg" alt="公告图片" style="max-width: 300px; height: auto;">  
+<div style="text-align: center;">  
+    <img src="https://image.vredu.icu/img/wxgzh.jpg" alt="公告图片" style="max-width: 150px; height: auto;">  
+</div>  
 <br>   
 <div class="more-content">   
-    <a href="https://www.zdDown.icu" target="_blank">查看资源官网</a>  
+   <a href="http://www.zdDown.icu" target="_blank"> 直达资源官网</a>  
 </div>
-  
 
 
   
